@@ -28,3 +28,4 @@ print(random_fact)
 # Set the fact-output of the action as the value of random_fact
 print(f"::set-output name=fact::{random_fact}")
 
+
